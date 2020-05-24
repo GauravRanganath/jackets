@@ -1,0 +1,64 @@
+@font-face {
+  font-family: libby;
+  src: url("fonts/LibbyRegular.ttf")
+}
+
+.main-title {
+    font-family: libby;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title{
+    font-family: libby;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.subtitle{
+    font-family: libby;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.title-alt{
+    font-family: libby;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    color: white;
+}
+
+.subtitle-alt{
+    font-family: libby;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+    color: white;
+}
+
+.text-alt {
+    font-size: 18px;
+    line-height: 1.5;
+    color: white;
+}
+
+.text {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.alternate{
+    background: rgb(83, 37, 144); 
+}
+
+.img{
+    border: 5px solid #FED00E;
+}
+
+.img-2{
+    border: 5px solid rgb(83, 37, 144); 
+}
+
